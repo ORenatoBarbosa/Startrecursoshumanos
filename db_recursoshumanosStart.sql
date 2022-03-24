@@ -32,3 +32,4 @@ select * from tb_funcionaries where salario > 2.000;
 select * from tb_funcionaries where salario < 2.000;
 
 update tb_funcionaries set salario = 10.000 where id = 1;
+# Renato Barbosa
